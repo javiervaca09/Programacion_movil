@@ -1,0 +1,5 @@
+fun main() {
+    println("Hello UPIICSA")
+    println("Esto es la practca #1")
+    println("Soy Javier Vaca")
+}
